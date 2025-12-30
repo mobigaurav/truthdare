@@ -1,0 +1,8 @@
+[
+  { "id": "p001", "mode": "party", "type": "truth", "level": "clean", "text": "What is your favorite movie and why?" },
+  { "id": "p002", "mode": "party", "type": "dare",  "level": "fun",   "text": "Do 10 jumping jacks right now." },
+  { "id": "p003", "mode": "party", "type": "truth", "level": "fun",   "text": "What’s the funniest thing that happened to you this month?" },
+  { "id": "p004", "mode": "couples", "type": "truth", "level": "romantic", "text": "What’s one thing I do that makes you feel loved?" },
+  { "id": "p005", "mode": "couples", "type": "dare",  "level": "romantic", "text": "Give your partner a 20-second hug." },
+  { "id": "p006", "mode": "couples", "type": "truth", "level": "deep",     "text": "What’s a goal you want us to achieve together?" }
+]

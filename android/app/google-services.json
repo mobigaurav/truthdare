@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260199265172",
+    "project_id": "truth-dare-new",
+    "storage_bucket": "truth-dare-new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260199265172:android:ee948acd8ffc992442d581",
+        "android_client_info": {
+          "package_name": "com.example.truth_dare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM7R_s73SSzt_vax_c0SBxPLc3AJyF2V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
